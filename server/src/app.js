@@ -25,6 +25,8 @@ app.use(cors({
         'http://127.0.0.1:5501',
         'http://localhost:3000',
         'http://127.0.0.1:3000',
+        "https://easy-basket-mocha.vercel.app",
+        "https://easy-basket-mocha.vercel.app"
     ],
     credentials: true,
 }));
